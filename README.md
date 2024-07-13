@@ -1,4 +1,4 @@
-# DAV-Team-Recruitment-Assignment
+# DAV-Team-Recruitment-Project
 This repository contains my submission for the Recruitment Assignment for the Data Analytics and Visualization Team, IIT Bombay
 
 This is a Data Science and Machine Learning Project:
